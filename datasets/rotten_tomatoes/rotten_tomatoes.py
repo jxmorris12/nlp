@@ -42,7 +42,7 @@ _CITATION = """\
 }
 """
 
-_DOWNLOAD_URL = "http://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz"
+_DOWNLOAD_URL = "https://github.com/jxmorris12/nlp/pull/new/update-rotten-tomatoes-url"
 
 
 class RottenTomatoesMovieReview(nlp.GeneratorBasedBuilder):
